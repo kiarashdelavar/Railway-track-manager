@@ -1,0 +1,398 @@
+code,name,type,latitude,longitude
+HNK,Hoorn Kersenboogerd,stoptreinstation,52.653610229492,5.0855555534363
+RAT,Raalte,stoptreinstation,52.391666412354,6.2775001525879
+RTST,Rotterdam Stadion,facultatiefStation,51.893890380859,4.5197219848633
+GLN,Geleen Oost,stoptreinstation,50.966945648193,5.8430557250977
+HNO,Heino,stoptreinstation,52.427223205566,6.2211112976074
+KTR,Kesteren,stoptreinstation,51.9313869,5.5833465
+YPB,Den Haag Ypenburg,stoptreinstation,52.055278778076,4.39222240448
+HNP,Hindeloopen,stoptreinstation,52.9464903,5.423063
+EHS,Eindhoven Strijp-S,stoptreinstation,51.451110839844,5.4558334350586
+SDA,Scheemda,stoptreinstation,53.1655362,6.9777775
+EHV,Eindhoven Centraal,megastation,51.443332672119,5.4813890457153
+LWC,Leeuwarden Camminghaburen,stoptreinstation,53.2021808,5.8422968
+UHM,Uithuizermeeden,stoptreinstation,53.4145845,6.7202975
+SDM,Schiedam Centrum,stoptreinstation,51.921243812803,4.4089937210083
+AC,Abcoude,stoptreinstation,52.2785,4.977
+SDT,Sliedrecht,stoptreinstation,51.829723358154,4.7783331871033
+ASDL,Amsterdam Lelylaan,stoptreinstation,52.357776641846,4.8338890075684
+ASDM,Amsterdam Muiderpoort,stoptreinstation,52.360553741455,4.9311113357544
+HON,Holten,stoptreinstation,52.283889770508,6.42027759552
+UHZ,Uithuizen,stoptreinstation,53.4099568,6.6748869
+AH,Arnhem Centraal,knooppuntIntercitystation,51.985000610352,5.8991665840149
+HMBH,Helmond Brouwhuis,stoptreinstation,51.47068,5.70177
+HOR,Hollandsche Rading,stoptreinstation,52.17777633667,5.1791667938232
+HRLW,Heerlen Woonboulevard,stoptreinstation,50.896667,5.952222
+DMNZ,Diemen Zuid,stoptreinstation,52.330276489258,4.9558334350586
+HMBV,Helmond Brandevoort,stoptreinstation,51.462223052979,5.6072220802307
+GND,Hardinxveld-Giessendam,stoptreinstation,51.830554962158,4.8358335494995
+BD,Breda,knooppuntIntercitystation,51.595554351807,4.7800002098083
+BDE,Bunde,stoptreinstation,50.896945953369,5.7366666793823
+UTLR,Utrecht Leidsche Rijn,stoptreinstation,52.09896,5.06523
+BF,Baflo,stoptreinstation,53.3608969,6.5185581
+BDG,Bodegraven,stoptreinstation,52.081390380859,4.7461109161377
+GNN,Groningen Noord,stoptreinstation,53.2301469,6.5563172
+UTLN,Utrecht Lunetten,stoptreinstation,52.06555557251,5.144166469574
+BK,Beek-Elsloo,stoptreinstation,50.947498321533,5.7866668701172
+BDM,Bedum,stoptreinstation,53.3068857,6.593054
+BL,Beilen,stoptreinstation,52.854721069336,6.5211110115051
+BN,Borne,stoptreinstation,52.298889160156,6.7480554580689
+VLB,Vierlingsbeek,stoptreinstation,51.59193,5.99714
+BP,Buitenpost,knooppuntSneltreinstation,53.2564547,6.1446496
+O,Oss,knooppuntIntercitystation,51.765556335449,5.5322222709656
+BR,Blerick,stoptreinstation,51.372501373291,6.1550002098083
+ZTM,Zoetermeer,knooppuntStoptreinstation,52.047500610352,4.4772224426269
+BV,Beverwijk,stoptreinstation,52.478332519531,4.6566667556763
+EMNZ,Emmen Zuid,sneltreinstation,52.748866374691,6.8747806549072
+HWZB,Halfweg-Zwanenburg,stoptreinstation,52.385935,4.747165
+ASDZ,Amsterdam Zuid,intercitystation,52.338889,4.872356
+SDTB,Sliedrecht Baanhoek,stoptreinstation,51.829722,4.743333
+DID,Didam,stoptreinstation,51.933502,6.1324106
+HDRZ,Den Helder Zuid,stoptreinstation,52.932498931885,4.7641668319702
+CK,Cuijk,stoptreinstation,51.726682587905,5.8742952346802
+CL,Culemborg,stoptreinstation,51.946666717529,5.2269444465637
+CO,Coevorden,knooppuntSneltreinstation,52.663612365723,6.7355556488037
+BET,Best,stoptreinstation,51.509998321533,5.3891668319702
+EKZ,Enkhuizen,stoptreinstation,52.699165344238,5.286388874054
+AHPR,Arnhem Presikhaaf,stoptreinstation,51.988056182861,5.9438886642456
+SGL,Houthem-St. Gerlach,stoptreinstation,50.873332977295,5.7972221374512
+SGN,Schagen,stoptreinstation,52.784442901611,4.8052778244019
+DA,Daarlerveen,stoptreinstation,52.4407702,6.5759947
+DB,Driebergen-Zeist,knooppuntStoptreinstation,52.065277099609,5.25861120224
+HRL,Heerlen,knooppuntIntercitystation,50.89083480835,5.9749999046326
+HRN,Haren,stoptreinstation,53.176109313965,6.6172223091125
+ZVB,Zevenbergen,stoptreinstation,51.64042,4.60904
+DL,Dalfsen,sneltreinstation,52.498332977295,6.25861120224
+DN,Deurne,stoptreinstation,51.455833435059,5.7888889312744
+HRT,Horst-Sevenum,stoptreinstation,51.426387786865,6.0422220230103
+DR,Dieren,intercitystation,52.044998168945,6.1030554771423
+HRY,Heerenveen IJsstadion,facultatiefStation,52.935276031494,5.9438886642456
+DT,Delft,knooppuntIntercitystation,52.00666809082,4.3563890457153
+LLZM,Lansingerland-Zoetermeer,stoptreinstation,52.042222,4.517222
+DV,Deventer,knooppuntIntercitystation,52.257499694824,6.1605553627014
+DZ,Delfzijl,stoptreinstation,53.3336625,6.9240797
+SHL,Schiphol Airport,megastation,52.30944442749,4.7619442939758
+ZVT,Zandvoort aan Zee,stoptreinstation,52.3752784729,4.5327777862549
+EC,Echt,stoptreinstation,51.100555419922,5.8788890838623
+ED,Ede-Wageningen,knooppuntIntercitystation,52.027778625488,5.6730556488037
+EML,Ermelo,stoptreinstation,52.301666259766,5.6147222518921
+ZWD,Zwijndrecht,stoptreinstation,51.814998626709,4.6416668891907
+EMN,Emmen,sneltreinstation,52.790000915527,6.8994445800781
+BGN,Bergen op Zoom,stoptreinstation,51.49388885498,4.2961111068726
+ES,Enschede,knooppuntIntercitystation,52.222499847412,6.8899998664856
+ASHD,Amsterdam Holendrecht,stoptreinstation,52.29844,4.95972
+DLD,Den Dolder,knooppuntStoptreinstation,52.140277862549,5.2427778244019
+HTO,'s-Hertogenbosch Oost,stoptreinstation,51.700553894043,5.3183331489563
+HTN,Houten,knooppuntStoptreinstation,52.03402,5.16821
+HLGH,Harlingen Haven,stoptreinstation,53.174917,5.4112885
+DLN,Dalen,stoptreinstation,52.69416809082,6.7580556869507
+FN,Franeker,stoptreinstation,53.1824488,5.5483094
+NSCH,Bad Nieuweschans,knooppuntStoptreinstation,53.1844,7.19937
+OBD,Obdam,stoptreinstation,52.67805480957,4.9072222709656
+BHV,Bilthoven,stoptreinstation,52.130001068115,5.2038888931274
+DTCH,Doetinchem De Huet,stoptreinstation,51.9591413,6.2598521
+RHN,Rhenen,knooppuntStoptreinstation,51.958610534668,5.5783333778381
+DTCP,Delft Campus,stoptreinstation,51.990833282471,4.3647222518921
+GD,Gouda,knooppuntIntercitystation,52.017501831055,4.7044444084167
+APDO,Apeldoorn Osseveld,stoptreinstation,52.215278625488,6.0044445991516
+DMN,Diemen,stoptreinstation,52.34515,4.967566
+GK,Grijpskerk,stoptreinstation,53.255740325573,6.3097786903381
+APDM,Apeldoorn De Maten,stoptreinstation,52.205276489258,6.0005555152893
+GN,Groningen,knooppuntIntercitystation,53.210556030273,6.5647220611572
+GO,Goor,stoptreinstation,52.230278015137,6.5844445228577
+GP,Geldrop,knooppuntStoptreinstation,51.419723510742,5.5505557060242
+GR,Gorinchem,knooppuntStoptreinstation,51.833889007568,4.9683332443237
+GS,Goes,stoptreinstation,51.498054504395,3.8905556201935
+GV,Den Haag HS,knooppuntIntercitystation,52.069721221924,4.3225002288818
+GW,Grou-Jirnsum,stoptreinstation,53.088890075684,5.8225002288818
+WSM,Winsum,stoptreinstation,53.3300994,6.5202905
+WADT,Waddinxveen Triangel,stoptreinstation,52.02725,4.6491
+GZ,Gilze-Rijen,stoptreinstation,51.583610534668,4.9261112213135
+HB,Hoensbroek,stoptreinstation,50.905555725098,5.9305553436279
+HD,Harderwijk,knooppuntStoptreinstation,52.337501525879,5.619722366333
+WADN,Waddinxveen Noord,stoptreinstation,52.055000305176,4.6483335494995
+HVL,Hoevelaken,stoptreinstation,52.16652,5.45718
+HK,Heemskerk,stoptreinstation,52.495277404785,4.6869444847107
+HVS,Hilversum,knooppuntIntercitystation,52.225833892822,5.1819443702698
+HM,Helmond,knooppuntIntercitystation,51.475555419922,5.6619443893433
+HN,Hoorn,knooppuntIntercitystation,52.644721984863,5.0555553436279
+EGHM,Eygelshoven Markt,stoptreinstation,50.896049819644,6.0602474212646
+AHP,Arnhem Velperpoort,stoptreinstation,51.985279083252,5.9194445610046
+HR,Heerenveen,intercitystation,52.961387634277,5.9141664505005
+HT,'s-Hertogenbosch,knooppuntIntercitystation,51.69048,5.29362
+ODB,Oudenbosch,stoptreinstation,51.587776184082,4.5333333015442
+ZZS,Zaandijk Zaanse Schans,knooppuntStoptreinstation,52.469165802002,4.8049998283386
+AHZ,Arnhem Zuid,stoptreinstation,51.955001831055,5.8519444465637
+HWD,Heerhugowaard,knooppuntStoptreinstation,52.669723510742,4.8227777481079
+WTV,Westervoort,stoptreinstation,51.96286,5.9695
+BKF,Bovenkarspel Flora,stoptreinstation,52.696109771729,5.2527775764465
+VRY,Venray,knooppuntStoptreinstation,51.526568099007,6.0141777992248
+BKG,Bovenkarspel-Grootebroek,stoptreinstation,52.694999694824,5.2377777099609
+VNDC,Veenendaal Centrum,knooppuntStoptreinstation,52.020000457764,5.548611164093
+BKL,Breukelen,knooppuntStoptreinstation,52.17149,4.9906
+ODZ,Oldenzaal,stoptreinstation,52.30638885498,6.9347224235535
+ZLSH,Zwolle Stadshagen,stoptreinstation,52.52764,6.05146
+GVC,Den Haag Centraal,megastation,52.080276489258,4.3249998092651
+VST,Voorschoten,stoptreinstation,52.1252784729,4.4324998855591
+VSS,Vlissingen Souburg,stoptreinstation,51.464721679688,3.5952777862549
+VSV,Varsseveld,stoptreinstation,51.937257,6.458839
+MAS,Maarssen,stoptreinstation,52.135276794434,5.0336112976074
+GVM,Den Haag Mariahoeve,stoptreinstation,52.090557098389,4.3694443702698
+BLL,Bloemendaal,stoptreinstation,52.404167175293,4.6275000572205
+RLB,Rotterdam Lombardijen,stoptreinstation,51.880001068115,4.531388759613
+NDB,Naarden-Bussum,knooppuntStoptreinstation,52.280277252197,5.1569442749023
+VTN,Vleuten,stoptreinstation,52.103056,5.007404
+ESE,Enschede De Eschmarke,stoptreinstation,52.221389770508,6.9511113166809
+ESK,Enschede Kennispark,stoptreinstation,52.23749923706,6.8388891220093
+AKL,Arkel,stoptreinstation,51.87194442749,4.9927778244019
+BMN,Brummen,stoptreinstation,52.091110229492,6.1469445228577
+AKM,Akkrum,stoptreinstation,53.046390533447,5.843611240387
+VNDW,Veenendaal West,stoptreinstation,52.028057098389,5.531388759613
+BSKS,Boskoop Snijdelwijk,stoptreinstation,52.067658,4.646186
+BMR,Boxmeer,knooppuntStoptreinstation,51.644521767653,5.9390330314636
+EST,Elst,knooppuntStoptreinstation,51.916942596435,5.8550000190735
+SOG,Schin op Geul,stoptreinstation,50.856388092041,5.8722224235535
+KW,Kropswolde,stoptreinstation,53.1617362,6.7220882
+LAA,Den Haag Laan v NOI,knooppuntStoptreinstation,52.078609466553,4.3427777290344
+KZ,Koog aan de Zaan,stoptreinstation,52.458610534668,4.8055553436279
+HZE,Heeze,stoptreinstation,51.384998321533,5.5694446563721
+BNC,Barneveld Centrum,stoptreinstation,52.139999389648,5.590277671814
+WWW,Winterswijk West,stoptreinstation,51.97453,6.70417
+LC,Lochem,stoptreinstation,52.166667938232,6.4263887405395
+UST,Usquert,stoptreinstation,53.4014742,6.6093776
+DRH,Driehuis,stoptreinstation,52.442501068115,4.6380553245544
+LG,Landgraaf,knooppuntStoptreinstation,50.896389007568,6.019166469574
+BNK,Bunnik,stoptreinstation,52.063056945801,5.1944446563721
+ETN,Etten-Leur,intercitystation,51.57500076294,4.6358332633972
+ALM,Almere Centrum,knooppuntIntercitystation,52.37503,5.21764
+BNN,Barneveld Noord,stoptreinstation,52.161388397217,5.5980553627014
+DRP,Dronryp,stoptreinstation,53.1778086,5.6347411
+LP,Loppersum,stoptreinstation,53.3347145,6.7472625
+SPTZ,Santpoort Zuid,stoptreinstation,52.419723510742,4.6313886642456
+CPS,Capelle Schollevaar,stoptreinstation,51.954166412354,4.5841665267944
+UTG,Uitgeest,knooppuntStoptreinstation,52.521667480469,4.7016668319702
+MDB,Middelburg,stoptreinstation,51.494720458984,3.6172223091126
+HLMS,Haarlem Spaarnwoude,stoptreinstation,52.382778167725,4.6730556488037
+LW,Leeuwarden,knooppuntIntercitystation,53.195835113525,5.7922220230103
+HBZM,Hardinxveld Blauwe Zoom,stoptreinstation,51.82944,4.81556
+BNZ,Barneveld Zuid,stoptreinstation,52.128853,5.60246
+UTM,Utrecht Maliebaan,stoptreinstation,52.087776184082,5.1313886642456
+UTO,Utrecht Overvecht,knooppuntStoptreinstation,52.110000610352,5.1247220039368
+FWD,Feanwâlden,stoptreinstation,53.2351834,5.9886615
+UTT,Utrecht Terwijde,stoptreinstation,52.1000753,5.0439547
+AMF,Amersfoort Centraal,knooppuntIntercitystation,52.153888702393,5.3705554008484
+MG,Mantgum,stoptreinstation,53.1296368,5.7131996
+AML,Almelo,knooppuntIntercitystation,52.358055114746,6.6538887023926
+BSMZ,Bussum Zuid,stoptreinstation,52.26583480835,5.1630554199219
+MP,Meppel,knooppuntStoptreinstation,52.69083404541,6.1975002288818
+AMR,Alkmaar,knooppuntIntercitystation,52.63777923584,4.7397222518921
+MT,Maastricht,knooppuntIntercitystation,50.850276947021,5.7055554389954
+BDPB,Breda-Prinsenbeek,stoptreinstation,51.606388092041,4.7208333015442
+MZ,Maarheeze,stoptreinstation,51.304986,5.629796
+SPTN,Santpoort Noord,stoptreinstation,52.43388748169,4.6325001716614
+DTC,Doetinchem,knooppuntStoptreinstation,51.9585962,6.2962148
+NA,Nieuw Amsterdam,sneltreinstation,52.718612670898,6.8486108779907
+ANA,Anna Paulowna,stoptreinstation,52.867221832275,4.8111109733581
+MES,Meerssen,sneltreinstation,50.882879392551,5.7509994506836
+NH,Nuth,stoptreinstation,50.919445037842,5.8927779197693
+UTVR,Utrecht Vaartsche Rijn,knooppuntStoptreinstation,52.078889,5.121667
+NM,Nijmegen,knooppuntIntercitystation,51.843612670898,5.8522224426269
+NS,Nunspeet,stoptreinstation,52.370834350586,5.7852778434753
+TPSW,Tiel Passewaaij,stoptreinstation,51.873889923096,5.39222240448
+KBD,Krabbendijke,stoptreinstation,51.433334350586,4.1169443130493
+SRN,Susteren,stoptreinstation,51.061389923096,5.8630557060242
+KPNZ,Kampen Zuid,stoptreinstation,52.5331,5.91309
+LDM,Leerdam,stoptreinstation,51.894721984863,5.0913887023926
+KBK,Klarenbeek,stoptreinstation,52.17805480957,6.0836110115051
+LDL,Leiden Lammenschans,stoptreinstation,52.146945953369,4.4924998283386
+OP,Opheusden,stoptreinstation,51.9261615,5.6371145
+OT,Oisterwijk,stoptreinstation,51.582221984863,5.1941666603088
+AMFS,Amersfoort Schothorst,stoptreinstation,52.174822137451,5.4038887023926
+OW,Oss West,stoptreinstation,51.758056640625,5.5055556297302
+SSH,Sassenheim,stoptreinstation,52.215278,4.517222
+DVNK,De Vink,stoptreinstation,52.147220611572,4.4563889503479
+DVC,Deventer Colmschate,stoptreinstation,52.2502784729,6.2144446372986
+DVD,Duivendrecht,knooppuntStoptreinstation,52.323333740234,4.9363889694214
+PMO,Purmerend Overwhere,stoptreinstation,52.511390686035,4.9683332443237
+PMR,Purmerend,knooppuntStoptreinstation,52.50305557251,4.9536108970642
+APD,Apeldoorn,knooppuntIntercitystation,52.209167480469,5.9702777862549
+BRD,Barendrecht,stoptreinstation,51.854721069336,4.5533332824707
+APG,Appingedam,stoptreinstation,53.3258135,6.8619577
+PMW,Purmerend Weidevenne,stoptreinstation,52.496590632542,4.9356293678284
+DVN,Duiven,stoptreinstation,51.943332672119,6.0147223472595
+APN,Alphen a/d Rijn,knooppuntIntercitystation,52.124443054199,4.6577777862549
+BRN,Baarn,knooppuntStoptreinstation,52.208332061768,5.2808332443237
+STD,Sittard,knooppuntIntercitystation,51.001667022705,5.8586111068726
+PT,Putten,stoptreinstation,52.264999389648,5.5752778053284
+STM,Stedum,stoptreinstation,53.3262092,6.6875551
+ASSP,Amsterdam Science Park,stoptreinstation,52.35526,4.94651
+BSD,Beesd,stoptreinstation,51.899444580078,5.1944446563721
+DWE,De Westereen,stoptreinstation,53.24817,6.03463
+STV,Stavoren,stoptreinstation,52.8865535,5.3600212
+STZ,Soest Zuid,stoptreinstation,52.165279388428,5.3030557632446
+BSK,Boskoop,stoptreinstation,52.077777862549,4.6469445228577
+RSD,Roosendaal,knooppuntIntercitystation,51.540279388428,4.4583334922791
+ZBM,Zaltbommel,stoptreinstation,51.80888748169,5.2633333206177
+SKND,Sneek Noord,stoptreinstation,53.0409319,5.6631808
+TWL,Twello,stoptreinstation,52.237777709961,6.0986108779907
+RSN,Rijssen,stoptreinstation,52.3122215271,6.5202779769897
+NKK,Nijkerk,stoptreinstation,52.222221374512,5.4938888549805
+RB,Rilland-Bath,stoptreinstation,51.422779083252,4.1611108779907
+OMN,Ommen,knooppuntSneltreinstation,52.50944519043,6.4158334732056
+RD,Roodeschool,stoptreinstation,53.421262,6.7587
+RH,Rheden,stoptreinstation,52.0101,6.0314
+UTZL,Utrecht Zuilen,stoptreinstation,52.103055,5.09
+RSW,Rijswijk,stoptreinstation,52.039722442627,4.3191666603088
+RL,Ruurlo,stoptreinstation,52.0810888,6.4492656
+BTL,Boxtel,knooppuntStoptreinstation,51.58433,5.31912
+CVM,Chevremont,stoptreinstation,50.876110076904,6.0597224235535
+RM,Roermond,knooppuntIntercitystation,51.193054199219,5.9941668510437
+ARN,Arnemuiden,stoptreinstation,51.501667022705,3.6691665649414
+RTA,Rotterdam Alexander,intercitystation,51.951946258545,4.5536112785339
+RS,Rosmalen,stoptreinstation,51.714721679688,5.3680553436279
+RTB,Rotterdam Blaak,stoptreinstation,51.920276641846,4.4888887405395
+RTD,Rotterdam Centraal,megastation,51.92499923706,4.468888759613
+RV,Reuver,stoptreinstation,51.28321916653,6.0789585113525
+RTN,Rotterdam Noord,stoptreinstation,51.942222595215,4.4816665649414
+ASA,Amsterdam Amstel,intercitystation,52.346668243408,4.9177780151367
+ASB,Amsterdam Bijlmer ArenA,knooppuntStoptreinstation,52.3122215271,4.9469442367554
+SD,Soestdijk,stoptreinstation,52.183612823486,5.3000001907349
+ASD,Amsterdam Centraal,megastation,52.378887176514,4.9002776145935
+SK,Sneek,knooppuntStoptreinstation,53.0328688,5.6523969
+RTZ,Rotterdam Zuid,stoptreinstation,51.904445648193,4.5102777481079
+SM,Swalmen,stoptreinstation,51.23582,6.03228
+SN,Schinnen,stoptreinstation,50.939167022705,5.8744444847107
+ASN,Assen,knooppuntIntercitystation,52.991664886475,6.5708332061768
+ZDK,Zaandam Kogerveld,stoptreinstation,52.456665039062,4.8202776908875
+ASS,Amsterdam Sloterdijk,knooppuntIntercitystation,52.388889312744,4.8377776145935
+SWD,Sauwerd,stoptreinstation,53.29113,6.5404
+ST,Soest,knooppuntStoptreinstation,52.173332214355,5.3099999427795
+NMD,Nijmegen Dukenburg,stoptreinstation,51.824165344238,5.7955555915833
+SWK,Steenwijk,intercitystation,52.791510992432,6.1145557632446
+NMH,Nijmegen Heyendaal,stoptreinstation,51.826946258545,5.8674998283386
+HAD,Heemstede-Aerdenhout,intercitystation,52.35916519165,4.6066665649414
+NML,Nijmegen Lent,stoptreinstation,51.863154,5.859625
+TB,Tilburg,knooppuntIntercitystation,51.560554504395,5.0836110115051
+TG,Tegelen,stoptreinstation,51.33894,6.14253
+ZTMO,Zoetermeer Oost,stoptreinstation,52.046390533447,4.4927778244019
+TL,Tiel,knooppuntStoptreinstation,51.889446258545,5.4222221374512
+ATN,Aalten,stoptreinstation,51.921326524551,6.5786272287369
+DZW,Delfzijl West,stoptreinstation,53.3320834,6.9069092
+RVS,Ravenstein,stoptreinstation,51.794166564941,5.6358332633972
+HGLG,Hengelo Gezondheidspark,stoptreinstation,52.261667,6.773611
+UT,Utrecht Centraal,megastation,52.088890075684,5.1102776527405
+VB,Voorburg,stoptreinstation,52.066665649414,4.3594446182251
+VD,Vorden,stoptreinstation,52.1071949,6.3170457
+VG,Vught,stoptreinstation,51.655555725098,5.2919445037842
+VH,Voorhout,stoptreinstation,52.224445343018,4.4844446182251
+VK,Valkenburg,knooppuntSneltreinstation,50.869720458984,5.8322219848633
+VL,Venlo,knooppuntIntercitystation,51.363609313965,6.1727776527405
+VP,Velp,stoptreinstation,51.994720458984,5.9802780151367
+WAD,Waddinxveen,stoptreinstation,52.044166564941,4.6497220993042
+VS,Vlissingen,knooppuntIntercitystation,51.445835113525,3.5952777862549
+NMGO,Nijmegen Goffert,stoptreinstation,51.8273,5.822722
+VZ,Vriezenveen,stoptreinstation,52.40203,6.60041
+HDB,Hardenberg,sneltreinstation,52.572776794434,6.6286110877991
+HDE,'t Harde,stoptreinstation,52.4091682,5.893611
+HDG,Hurdegaryp,stoptreinstation,53.2187783,5.934543
+WC,Wijchen,stoptreinstation,51.811668395996,5.730833530426
+DRON,Dronten,stoptreinstation,52.5344,5.72089
+GBG,Gramsbergen,stoptreinstation,52.60916519165,6.6758332252502
+WD,Woerden,knooppuntStoptreinstation,52.084999084473,4.8936109542847
+WF,Wolfheze,stoptreinstation,52.005554199219,5.7936110496521
+WH,Wijhe,intercitystation,52.390277862549,6.1405553817749
+LLS,Lelystad Centrum,knooppuntIntercitystation,52.507778167725,5.4727778434753
+WK,Workum,stoptreinstation,52.9724864,5.4564285
+WL,Wehl,stoptreinstation,51.9578065,6.213844
+GBR,Glanerbrug,stoptreinstation,52.218612670898,6.9744443893433
+WM,Wormerveer,stoptreinstation,52.489166259766,4.7922220230103
+HDR,Den Helder,intercitystation,52.955276489258,4.7611112594605
+WP,Weesp,knooppuntStoptreinstation,52.3127784729,5.0430555343628
+WS,Winschoten,knooppuntStoptreinstation,53.1392377,7.035101
+WT,Weert,intercitystation,51.248611450195,5.7036108970642
+DDRS,Dordrecht Stadspolders,stoptreinstation,51.801944732666,4.7166666984558
+WV,Wolvega,stoptreinstation,52.880832672119,6.0036110877991
+WW,Winterswijk,knooppuntStoptreinstation,51.9677307,6.7155181
+HGLO,Hengelo Oost,stoptreinstation,52.268890380859,6.8194446563721
+WZ,Wezep,stoptreinstation,52.454166412354,6.0025000572205
+OST,Olst,intercitystation,52.334720611572,6.1130557060242
+BZL,Kapelle-Biezelinge,stoptreinstation,51.480834960938,3.9561111927033
+GVMW,Den Haag Moerwijk,stoptreinstation,52.053890228271,4.3086109161377
+OTB,Oosterbeek,stoptreinstation,51.994998931885,5.8400001525879
+HFD,Hoofddorp,stoptreinstation,52.293334960938,4.7005553245544
+GDG,Gouda Goverwelle,stoptreinstation,52.014999389648,4.7408332824707
+KLP,Veenendaal-De Klomp,stoptreinstation,52.045833587646,5.5738887786865
+ALMP,Almere Parkwijk,stoptreinstation,52.376667022705,5.244722366333
+GDM,Geldermalsen,knooppuntStoptreinstation,51.88301,5.27127
+ALMO,Almere Oostvaarders,stoptreinstation,52.403331756592,5.3005557060242
+GDR,Gaanderen,stoptreinstation,51.93074,6.3486
+ALMM,Almere Muziekwijk,stoptreinstation,52.367500305176,5.1902775764465
+ALMB,Almere Buiten,stoptreinstation,52.394165039062,5.2780556678772
+KMA,Krommenie-Assendelft,stoptreinstation,52.49511,4.75417
+WDN,Wierden,knooppuntStoptreinstation,52.361389160156,6.5916666984558
+ZA,Zetten-Andelst,stoptreinstation,51.920056,5.7228408
+ZB,Zuidbroek,knooppuntStoptreinstation,53.159612280006,6.8679141998291
+ZD,Zaandam,knooppuntIntercitystation,52.438888549805,4.8136110305786
+HGL,Hengelo,knooppuntIntercitystation,52.261665344238,6.7938890457153
+ZH,Zuidhorn,stoptreinstation,53.2486292,6.4062361
+KMR,Klimmen-Ransdaal,stoptreinstation,50.866390228271,5.8905553817749
+ZL,Zwolle,knooppuntIntercitystation,52.504722595215,6.0919442176819
+KMW,Koudum-Molkwerum,stoptreinstation,52.9028197,5.4106913
+AMPO,Almere Poort,stoptreinstation,52.342778,5.151944
+AVAT,Amersfoort Vathorst,stoptreinstation,52.192779541016,5.4338889122009
+HGV,Hoogeveen,stoptreinstation,52.733890533447,6.4736108779907
+ZP,Zutphen,knooppuntIntercitystation,52.145278930664,6.1941666603088
+MMLH,Mook-Molenhoek,stoptreinstation,51.766262,5.879133
+HGZ,Hoogezand-Sappemeer,knooppuntStoptreinstation,53.159818131676,6.7707538604736
+MRB,Mariënberg,knooppuntSneltreinstation,52.50944519043,6.5752778053284
+ZV,Zevenaar,knooppuntStoptreinstation,51.923053741455,6.0719442367554
+OVN,Overveen,stoptreinstation,52.391109466553,4.6061110496521
+BHDV,Boven-Hardinxveld,stoptreinstation,51.832222,4.878056
+MRN,Maarn,knooppuntStoptreinstation,52.064167022705,5.3699998855591
+IJT,IJlst,stoptreinstation,53.0146614,5.6160801
+VDM,Veendam,knooppuntStoptreinstation,53.10324,6.88475
+VDL,Voerendaal,stoptreinstation,50.887222290039,5.9302778244019
+WFM,Warffum,stoptreinstation,53.3908431,6.5671364
+ZLW,Lage Zwaluwe,knooppuntStoptreinstation,51.69111251831,4.6630554199219
+HIL,Hillegom,stoptreinstation,52.302501678467,4.5655555725098
+AMRN,Alkmaar Noord,stoptreinstation,52.643890380859,4.7641668319702
+AMRI,Almelo de Riet,stoptreinstation,52.341945648193,6.6666665077209
+NVD,Nijverdal,stoptreinstation,52.366111,6.462
+VEM,Voorst-Empe,stoptreinstation,52.157501220703,6.1436109542847
+MTH,Martenshoek,stoptreinstation,53.1607232,6.7402989
+EDC,Ede Centrum,stoptreinstation,52.043609619141,5.668333530426
+MTN,Maastricht Noord,stoptreinstation,50.87087,5.71774
+KPN,Kampen,stoptreinstation,52.559722900391,5.9216666221619
+NVP,Nieuw Vennep,stoptreinstation,52.258888244629,4.6455554962158
+MTR,Maastricht Randwyck,knooppuntStoptreinstation,50.838611602783,5.7172222137451
+EDN,Eijsden,stoptreinstation,50.771945953369,5.710000038147
+TBG,Terborg,stoptreinstation,51.9224549,6.3642466
+NWK,Nieuwerkerk a/d IJssel,stoptreinstation,51.965278625488,4.6169443130493
+TBR,Tilburg Reeshof,stoptreinstation,51.573612213135,4.9944443702698
+TBU,Tilburg Universiteit,stoptreinstation,51.564985,5.051778
+EEM,Eemshaven,stoptreinstation,53.458419,6.832
+HKS,Hoogkarspel,stoptreinstation,52.69055557251,5.1838889122009
+CAS,Castricum,intercitystation,52.545833587646,4.6586112976074
+DDZD,Dordrecht Zuid,stoptreinstation,51.790000915527,4.6713891029358
+KRD,Kerkrade Centrum,knooppuntStoptreinstation,50.861667633057,6.0574998855591
+GERP,Groningen Europapark,stoptreinstation,53.20480027,6.5854178
+KRG,Kruiningen-Yerseke,stoptreinstation,51.465000152588,4.0372223854065
+HLG,Harlingen,stoptreinstation,53.1704205,5.4251932
+LTN,Lunteren,stoptreinstation,52.085277557373,5.6244444847107
+HLM,Haarlem,knooppuntIntercitystation,52.38777923584,4.6383333206177
+HVSP,Hilversum Sportpark,stoptreinstation,52.216110229492,5.1872220039368
+HLO,Heiloo,stoptreinstation,52.599445343018,4.7005553245544
+HVSM,Hilversum Media Park,stoptreinstation,52.238056182861,5.1738886833191
+DDN,Delden,stoptreinstation,52.259998321533,6.7161111831665
+LTV,Lichtenvoorde-Groenlo,stoptreinstation,52.01188,6.59641
+DDR,Dordrecht,knooppuntIntercitystation,51.807220458984,4.668333530426
+SBK,Spaubeek,stoptreinstation,50.94327,5.850529
+VHP,Vroomshoop,stoptreinstation,52.4571921,6.5696679
+HTNC,Houten Castellum,stoptreinstation,52.01701,5.17949
+LEDN,Leiden Centraal,knooppuntIntercitystation,52.166110992432,4.4816665649414
+HMH,Helmond 't Hout,stoptreinstation,51.46794,5.63085
+EGH,Eygelshoven,stoptreinstation,50.890556335449,6.0450000762939
+HMN,Hemmen-Dodewaard,stoptreinstation,51.9222129,5.6737254
+DEI,Deinum,stoptreinstation,53.1888115,5.7281572
+LUT,Geleen-Lutterade,stoptreinstation,50.975555419922,5.8247222900391
+RAI,Amsterdam RAI,stoptreinstation,52.337223052979,4.8902778625488

@@ -1,0 +1,15 @@
+### IntelliJ IDEA ###
+.idea/
+# Default (build) folders
+out/
+target/
+# Other folders
+shelf/
+httpRequests/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+__MACOSX/
+.DS_Store
