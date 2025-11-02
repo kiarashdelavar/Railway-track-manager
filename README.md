@@ -1,23 +1,104 @@
-# CDS Opdracht (Nederlands)
+# Project Explanation – Railway Track Manager (CDS Project)
 
-## Inleiding
+This project was created for the **Complex Data Structures** course at Saxion University. The main goal was to build a working railway track manager system using only custom data structures from the Saxion Collection Framework. No classes from `java.util` were used (except `Comparator`, `Iterator`, `Scanner`, or `Random` as allowed by course rules).
 
-Het Nederlandse spoorwegnet is 3,2 duizend kilometer lang. Van het spoor is 67 procent twee- of meersporig, ruim 70 procent is geëlektrificeerd. Vooral in het noorden en het oosten van ons land zijn de spoorwegen niet geëlektrificeerd. Het netwerk telt ongeveer 400 treinstations, dat is gemiddeld één station per 8,1 kilometer spoor, zie [CBS: Hoeveel spoorwegen zijn er in Nederland?](https://www.cbs.nl/nl-nl/visualisaties/verkeer-en-vervoer/vervoermiddelen-en-infrastructuur/spoorwegen).
+---
 
-De kosten van een reis per trein zijn afhankelijk van het aantal eenheden, zie "de Tariefeenhedenkaart van Nederland" op de [NS Voorwaarden site](https://www.ns.nl/voorwaarden.html)
+##  Purpose
 
-## Opdracht
+The project shows how different data structures and algorithms can be used in a realistic simulation. It works with real data from Dutch train stations and tracks, and it includes both a **console-based menu** and a **graphical interface** made with `SaxionApp`.
 
-Aan jou de taak om een proof of concept voor een spoormanager-applicatie te bouwen; zie [opdracht beschrijving](<doc/Assignment (NL).md>).
+---
 
-# CDS Assignment (English)
+##  What I Have Done
 
-## Introduction
+### 1. Console and GUI System
 
-The Dutch railroad network is 3.2 thousand kilometers long. Of that network, 67 percent is two- or multi-track and over 70 percent is electrified. Especially in the north and east of our country the railroads are not electrified. The network has about 400 train stations, which is on average one station for every 8.1  kilometers of track, see [CBS: How many railroads are there in the Netherlands?](https://www.cbs.nl/nl-nl/visualisaties/verkeer-en-vervoer/vervoermiddelen-en-infrastructuur/spoorwegen).
+- Created a console menu where users can choose actions.
+- Used `SaxionApp.GameLoop` to draw the railway map and show paths and stations.
+- Combined user interaction (console) with visual updates (canvas).
 
-The cost of a trip by train depends on the number of units, see "the Fare Unit Map of the Netherlands" on the [NS Terms and Conditions site](https://www.ns.nl/voorwaarden.html)
+### 2. Data Import with `CsvLoader`
 
-## Assignment
+- Loaded data from two CSV files:
+  - `stations.csv` – 397 train stations.
+  - `tracks.csv` – 868 rail connections.
+- Each station has a name, code, type, and coordinates.
+- Each track includes the two station codes and the distance.
 
-It is up to you to build a proof of concept for a railway track manager application; see [assignment description](<doc/Assignment (EN).md>).
+Data is stored using:
+- `SaxList<Station>` for the station list.
+- `SaxGraph<Station>` for the railway network graph.
+
+### 3. Search Functionality
+
+- Users can search for stations by name or partial name.
+- Matching results are shown in the console.
+- The map highlights selected stations in red or blue.
+
+### 4. Shortest Route (Dijkstra)
+
+- Implemented Dijkstra’s algorithm on the graph.
+- Users can pick two stations to calculate the shortest route.
+- The total distance is shown, and the path is drawn on the map in blue.
+
+### 5. Round Trip Calculation
+
+- Allows choosing 3 or more stations for a round trip.
+- All possible permutations are calculated.
+- The shortest round trip is shown and drawn on the map.
+
+### 6. Minimum Cost Spanning Tree (MCST)
+
+- Used Prim’s algorithm to calculate MCST.
+- Shows the minimum number of rail connections needed to connect all stations.
+- Tracks are highlighted in green.
+
+### 7. Custom Data Structures
+
+Implemented and used the following custom classes from the Saxion Collection Framework:
+
+- `SaxList<T>` – Doubly linked list
+- `SaxArrayList<T>` – Array list
+- `SaxStack<T>` – Stack
+- `SaxQueue<T>` – Queue
+- `SaxHashMap<K, V>` – Hash map with chaining
+- `SaxHeap<T>` – Min/Max heap (used in Dijkstra)
+- `SaxBinarySearchTree<T>` – AVL tree (used optionally)
+- `SaxGraph<V>` – Graph with support for edges, paths, MCST
+
+### 8. Testing with JUnit 5
+
+- Over 90% class, method, line, and branch coverage.
+- Used `@Test`, `@BeforeEach`, `assertEquals`, `assertTrue`, `assertThrows`, etc.
+- Included good-weather and bad-weather cases.
+- GraphViz calls are included but excluded from coverage.
+
+---
+
+##  Learning Goals Covered
+
+| Competence | Learning goal |
+|------------|----------------|
+| **SW/ANA/2** | You make estimates of the complexity of algorithms and, based on that, you compare the efficiency of similar algorithms. |
+| **SW/REA/2** | You know the properties of linear data structures (queue, stack, map, hash table) and nonlinear data structures (tree, heap, count) and apply them in a given context. |
+| **SW/ONT/2** | You make reasoned choices in appropriate data structures for internal storage and apply them in a given context. |
+| **SW/REA/2** | You know some graph algorithms (depthfirst, breadthfirst, shortest paths, minimum cost spanning tree) and apply them in a given context. |
+| **SW/REA/2** | You apply recursion and backtracking for appropriate problems. |
+| **SW/ONT/2** | You apply assertions and write thorough unit tests, demonstrating that your algorithms and data structures are correct. |
+
+---
+
+
+##  Final Notes
+
+This project helped me understand how to build real software using clean and efficient code. I practiced:
+
+- Graph algorithms like Dijkstra and Prim
+- Writing custom data structures
+- Understanding Big-O complexity
+- Using recursion for permutations
+- Writing readable and well-tested Java code
+- Drawing graphics with SaxionApp
+
+I followed all course rules, avoided `java.util`, and explained every method and structure I used.
